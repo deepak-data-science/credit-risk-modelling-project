@@ -9,9 +9,10 @@ This project focuses on building a Credit Risk Classification Model as part of p
 This application helps financial institutions assess credit risk by analyzing various customer financial parameters and generating credit scores with risk ratings. It uses a trained machine learning model to predict the probability of default and provides actionable credit scores ranging from 300 to 900.
 
 ## Dataset :
+
 The dataset was provided by Atliq Technologies for training purpose.
 
-### 🔧 Technical & Analytical Skills Applied
+## 🔧 Technical & Analytical Skills Applied
 
 - **Exploratory Data Analysis (EDA)**: Used box plots, histograms, KDE plots, and correlation analysis to understand data distribution, behavior, and key relationships.
 
