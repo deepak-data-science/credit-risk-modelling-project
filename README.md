@@ -1,8 +1,3 @@
-Below is a polished, professional README you can directly use for GitHub.
-If you'd like, I can tailor it further with badges, diagrams, an architecture image or contribution guidelines.
-
----
-
 # **Credit Risk Modeling Application**
 
 A production-style machine learning project that evaluates customer creditworthiness by predicting the probability of loan default and generating an interpretable credit score. The project combines strong statistical modeling practices with a clean Streamlit interface to support data-driven lending decisions.
@@ -235,9 +230,3 @@ Contributions are welcome. To contribute:
 This project is intended for academic and educational use.
 
 ---
-
-If you want, I can also:
-✔ Add badges (build, Python version, license)
-✔ Add architecture diagrams
-✔ Write an "About the Author" or "Project Motivation" section
-✔ Rewrite it in a shorter or more formal tone
