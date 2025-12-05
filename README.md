@@ -64,7 +64,6 @@ It includes:
 
 * Interactive **Streamlit** web application
 * Model serialized using **joblib**
-* Experiment tracking with **MLflow**
 
 ---
 
